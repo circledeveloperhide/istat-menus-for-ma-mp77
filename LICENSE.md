@@ -1,4 +1,4 @@
-
+updated iStat Menus for macOS Script | cloud-sync + battery-health is the best iStat Menus for macOS script, featuring cloud-sync and battery-health. Safe, efficient, and
 
 
 
